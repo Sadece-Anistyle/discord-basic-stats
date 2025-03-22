@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Luxis 👋</h1>
+<h1 align="center">Merhaba, ben Anistyle 👋</h1>
 
 <p align="center">
   <p align="center">
